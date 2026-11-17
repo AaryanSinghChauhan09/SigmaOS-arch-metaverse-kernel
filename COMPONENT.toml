@@ -3,7 +3,7 @@ name = "SigmaOS-arch-metaverse-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-metaverse-kernel component"
+description = "SigmaOS SigmaOS-arch-metaverse-kernel component"
 upstream = []
 
 [contract]
